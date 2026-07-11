@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Nama Aplikasi Kamu",
+    "name": "saya akan lawan",
     "slug": "nama-aplikasi-kamu",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,7 +17,7 @@
     "android": {
       "package": "com.lolodiko.namaaplikasi",
       "versionCode": 1,
-      "android": {
+      "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
@@ -28,11 +28,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "owner": "diko-dev",
     "extra": {
       "eas": {
         "projectId": "739f534e-6d04-48cf-8492-cdd36195aab0"
       }
-    },
-    "owner": "diko-dev"
+    }
   }
 }

@@ -146,7 +146,7 @@ export default function App() {
       <View style={styles.card}>
         <Image source={{ uri: image }} style={styles.profileImage} />
         
-        <Text style={styles.nameText}>John Doe (Pagi A)</Text>
+        <Text style={styles.nameText}>Diko Manik(Pagi A)</Text>
         <Text style={styles.bioText}>Mobile App Developer Student</Text>
 
         <View style={styles.locationContainer}>
