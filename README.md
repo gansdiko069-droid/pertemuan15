@@ -17,16 +17,16 @@
 
 ### Kode QR dan link buat dowload apk nya
 
-!(.../assets/foto.png)
+![Foto](assets/foto.png)
 
 ### Apk selesai di install di HP
 
-!(.../assets/foto1.png)
+![Foto](assets/foto1.png)
 
 ### Tampilan apk di dekstop HP
 
-!(.../assets/foto2.png)
+![Foto](assets/foto2.png)
 
 ### Tampilan dalam apk nya
 
-!(.../assets/foto3.png)
+![Foto](assets/foto3.png)
