@@ -12,15 +12,15 @@ Aplikasi mobile sederhana berbasis **React Native** dan **Expo** yang menampilka
 
 ## Home Screen
 
-![Home](assets/home.png)
+![Home](assets/foto.png)
 
 ## GPS Location
 
-![GPS](assets/gps.png)
+![GPS](assets/foto1.png)
 
 ## Delete Profile
 
-![Delete](assets/delete.png)
+![Delete](assets/foto2.png)
 
 ---
 
