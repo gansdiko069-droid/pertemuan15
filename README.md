@@ -8,7 +8,20 @@ Aplikasi mobile sederhana berbasis **React Native** dan **Expo** yang menampilka
 
 ---
 
-# 📷 Screenshot
+# 📷 Screenshot L1
+
+## Scrcpy
+![scrcpy](assets/scrcpy_aktif.png)
+
+## USB
+
+[USB](assets/usb_debugging.png)
+
+## DEVICES
+
+[DEVICES](assets/adb_devices.png)
+
+# 📷 Screenshot L2
 
 ## Home Screen
 
@@ -96,8 +109,11 @@ profile-card/
 ├── README.md
 └── eas.json
 ```
+link expo snack : https://snack.expo.dev/@diko-dev/calm-violet-almond
 
----
+## 📄 License
+
+This project is created for educational purposes as part of the React Native Mobile Programming course.
 
 # 👨‍💻 Developer
 
@@ -114,3 +130,10 @@ profile-card/
 # ⭐ Repository
 
 Jika project ini bermanfaat silakan beri ⭐ pada repository GitHub.
+
+## 🙏 Acknowledgements
+
+- React Native
+- Expo
+- GitHub
+- Universitas Prima Indonesia
