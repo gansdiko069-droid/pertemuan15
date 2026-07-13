@@ -15,11 +15,11 @@ Aplikasi mobile sederhana berbasis **React Native** dan **Expo** yang menampilka
 
 ## USB
 
-[USB](assets/usb_debugging.png)
+![USB](assets/usb_debugging.png)
 
 ## DEVICES
 
-[DEVICES](assets/adb_devices.png)
+![DEVICES](assets/adb_devices.png)
 
 # 📷 Screenshot L2
 
