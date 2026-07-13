@@ -53,7 +53,7 @@ Aplikasi mobile sederhana berbasis **React Native** dan **Expo** yang menampilka
 Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/profile-card.git
+git clone https://github.com/gansdiko069-droid/pertemuan15
 ```
 
 Masuk ke folder project
@@ -80,7 +80,7 @@ npx expo start
 
 APK dapat diunduh melalui link berikut:
 
-https://expo.dev/artifacts/ISI_LINK_APK_KAMU
+https://expo.dev/accounts/diko-dev/projects/nama-aplikasi-kamu/builds/f2f3dec0-7c77-45d6-befe-aef7b54c27b9
 
 ---
 
